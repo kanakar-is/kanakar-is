@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kostas
 - 📍 Location: Leeds, UK
-- 👀 I’m interested in cryptography, autonomous drones and cryptocurrencies
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in autonomous systems and cryptocurrencies
+- 🌱 I’m currently learning C# and developing my JS skills
 - 📫 How to reach me: kostas@kanakar.is 
 - ⚡ Old Account: 17kkanakaris
