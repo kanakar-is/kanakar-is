@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Kostas
-- 📍 Location: Leeds, UK
-- 👀 I’m interested in autonomous systems and cryptocurrencies
-- 🌱 I’m currently working on back-end web development
-- 📫 How to reach me: kostas@kanakar.is 
-- ⚡ Old Account: 17kkanakaris
+- 📍 Location: Leeds, UK // Athens, GR
